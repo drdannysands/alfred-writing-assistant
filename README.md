@@ -27,6 +27,13 @@ The workflow offers four [hotkeys](https://www.alfredapp.com/help/workflows/trig
 	+ Note that Apple Intelligence availability depends on your country, your
 	  macOS version, and the app.
 
+Alternatively, workflow can be triggered by selecting text and then triggering the [Universal Action](https://www.alfredapp.com/universal-actions/). Each of the four functions will appear separately on the Universal Action menu as:
+
+1. Autocorrect
+2. Synonyms
+3. Rephrase
+4. Apple Intelligence Writing
+
 ## Installation
 [➡️ Download the latest release.](https://github.com/chrisgrieser/alfred-writing-assistant/releases/latest)
 
